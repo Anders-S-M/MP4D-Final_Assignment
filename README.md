@@ -3,11 +3,12 @@
 This is the MP4D clone for the final assignment of group 7, Anders Schack Madsen, Nicholai Halling Skov, Andreas Søresen & Søren Lystlund.
 This clone contain the kernel needed to run the Ros2 system for classification of nuts and bolt. The rootfs is freshly cloned meaning you have Ros2 foxy, but will be lacking OpenCV and cv_bridge. For the code to run the classifier via Ros2 and have the motors move please see the repository XX.
 
- | \ | |     | |                   | | |  _ \      | | |    / ____| |             (_)/ _(_)          
- |  \| |_   _| |_    __ _ _ __   __| | | |_) | ___ | | |_  | |    | | __ _ ___ ___ _| |_ _  ___ _ __ 
- | . ` | | | | __|  / _` | '_ \ / _` | |  _ < / _ \| | __| | |    | |/ _` / __/ __| |  _| |/ _ \ '__|
- | |\  | |_| | |_  | (_| | | | | (_| | | |_) | (_) | | |_  | |____| | (_| \__ \__ \ | | | |  __/ |   
- |_| \_|\__,_|\__|  \__,_|_| |_|\__,_| |____/ \___/|_|\__|  \_____|_|\__,_|___/___/_|_| |_|\___|_|
+
+   _  __     __                 __  ___       ____    _______             _ ____        
+  / |/ /_ __/ /_  ___ ____  ___/ / / _ )___  / / /_  / ___/ /__ ____ ___ (_) _(_)__ ____
+ /    / // / __/ / _ `/ _ \/ _  / / _  / _ \/ / __/ / /__/ / _ `(_-<(_-</ / _/ / -_) __/
+/_/|_/\_,_/\__/  \_,_/_//_/\_,_/ /____/\___/_/\__/  \___/_/\_,_/___/___/_/_//_/\__/_/   
+                                                                                        
 
 # Orignal Read Me
 ██████╗░██╗██╗██╗  
