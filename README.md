@@ -1,7 +1,8 @@
 # MPSoC4Drones Final Assignment Clone
 
-This is the MP4D clone for the final assignment of group 7, Anders Schack Madsen, Nicholai Halling Skov, Andreas Søresen & Søren Lystlund.            
-This clone contain the kernel needed to run the Ros2 system for classification of nuts and bolt. The rootfs is freshly cloned meaning you have Ros2 foxy, but will be lacking OpenCV and cv_bridge. For the code to run the classifier via Ros2 and have the motors move please see the repository XX.
+This is the MP4D clone for the final assignment of group 7, Anders Schack Madsen, Nicholai Halling Skov, Andreas Søresen & Søren Lystlund.
+
+This repo contains the kernel needed to run the Ros2 system for classification of nuts and bolt which is based on the MP4d framework. The rootfs is freshly cloned meaning you have Ros2 foxy, but will be lacking OpenCV and cv_bridge. For the code needed to run the classifier (and motors) via Ros2 please see the repository XX.
 
 █▀▀ █▀█ █▀▀ ▄▀█   █▀▀ █░░ ▄▀█ █▀ █▀ █ █▀▀ █ █▀▀ █▀█        
 █▀░ █▀▀ █▄█ █▀█   █▄▄ █▄▄ █▀█ ▄█ ▄█ █ █▀░ █ ██▄ █▀▄           
